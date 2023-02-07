@@ -1,0 +1,153 @@
+Skill:
+  Name: Estas
+  Id: 16
+
+New words: []
+
+Phrases:
+  - Phrase: Mi estas studanto
+    Translation: Yo soy un estudiante
+    Alternative translations:
+    - Soy estudiante
+    - Yo soy estudiante
+
+  - Phrase: Mi estas en la lernejo
+    Alternative versions: Mi estas lerneje
+    Translation: Estoy en la escuela
+
+  - Phrase: Ŝi estas flegistino
+    Translation: Ella es enfermera
+    Alternative translations: Es enfermera
+
+  - Phrase: Ŝi estas malsana
+    Alternative versions: Ŝi malsanas
+    Translation: Está enferma
+    Alternative translations:
+      - Está mala
+      - Está malita
+
+  - Phrase: Ni estas en la urbo
+    Alternative versions:
+      - En la urbo estas ni
+    Translation: Estamos en la ciudad
+
+  - Phrase: La kato estas pura
+    Alternative versions:
+      - La kato puras
+    Translation: El gato está limpio
+    Alternative translations:
+      - La gata está limpia
+
+  - Phrase: Ili estas pretaj
+    Alternative versions:
+      - Ili pretas
+    Translation: Ellos están listos
+    Alternative translations:
+      - Están listos
+
+  - Phrase: Ili estas lertaj
+    Alternative versions:
+      - Ili lertas
+    Translation: Ellos son listos
+    Alternative translations:
+      - Ellos son inteligentes
+
+  - Phrase: Ĉu vi estas kuracistoj?
+    Translation: ¿Sois médicos?
+    Alternative translations:
+      - ¿Vosotros sois médicos?
+
+  - Phrase: Ĉu vi estas gajaj?
+    Alternative versions:
+      - Ĉu vi gajas?
+      - Ĉu vi estas feliĉaj?
+      - Ĉu vi feliĉaj?
+    Translation: ¿Estás contento?
+    Alternative translations:
+      - Are you content?
+      - Are you satisfied?
+
+Mini-dictionary:
+  esperanto:
+    - lertaj: inteligentes
+    - estas: soy, eres, es, somos, sois, son
+    - studanto: estudiante
+    - lernejo: escuela
+    - flegistino: enfermera
+    - mi:
+      - yo
+    - estas:
+      - estoy
+    - en:
+      - en
+    - estas: está
+    - malsana:
+      - enferma
+      - mala
+    - ni:
+      - nosotros
+    - estas:
+      - estamos
+    - urbo: ciudad
+    - pura: limpia
+    - ili: ellos
+    - estas:
+      - están
+    - pretaj: listos
+    - estas:
+      - estáis
+    - gajaj: contentos
+    - kuracistoj: médicos
+    - kato: gato
+
+  español:
+    - médicos: kuracistoj
+    - sois: estas
+    - son: estas
+    - es: estas
+    - estudiante: studanto
+    - en: en
+    - ciudad: urbo
+    - escuela: lernejo
+    - enfermero:
+      - flegisto
+    - enfermera:
+      - flegistino
+    - enfermo:
+      - malsana
+    - enferma:
+      - malsana
+    - limpio:
+      - pura
+    - limpia:
+      - pura
+    - limpiar:
+      - purigi
+    - lista:
+      - preta
+    - listo:
+      - preta
+    - listas:
+      - pretaj
+    - listos:
+      - pretaj
+    - listo:
+      - lerta
+    - lista:
+      - lerta
+    - listas:
+      - lertaj
+    - listos:
+      - lertaj
+    - contento:
+      - gaja
+    - contenta:
+      - gaja
+    - contentas:
+      - gajaj
+    - contentos:
+      - gajaj
+    - escuela: lernejo
+    - un: ()
+    - soy: estas
+    - estudiante: estudiante

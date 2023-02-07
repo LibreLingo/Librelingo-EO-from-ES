@@ -1,6 +1,6 @@
 Module:
-  Name: "Activities"
+  Name: "Actividades"
 
-Skills: 
-  - ser_estar.yaml
-  - continuous.yaml
+Skills:
+  - estas.yaml
+  - presente.yaml

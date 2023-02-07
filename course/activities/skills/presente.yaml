@@ -1,0 +1,151 @@
+Skill:
+  Name: Presente continuo
+  Id: 17
+
+New words: []
+
+Phrases:
+  - Phrase: Ni kuiras la vespermanĝon
+    Translation: Nosotros estamos cocinando la cena
+    Alternative translations:
+      - Estamos cocinando la cena
+
+  - Phrase: Mi faras ĉi tiun ekzercon
+    Translation: Yo estoy haciendo este ejercicio
+    Alternative translations:
+      - Estoy haciendo este ejercicio
+      - Yo estoy haciendo este entrenamiento
+      - Estoy haciendo este entrenamiento
+
+  - Phrase: Ili ludas
+    Translation: Ellos están jugando
+
+  - Phrase: Ĉu vi aŭskultas?
+    Translation: ¿Estás escuchando?
+    Alternative translations:
+    - ¿Tú estás escuchando?
+    - ¿Escuchas?
+
+  - Phrase: Vi multe lernas
+    Alternative versions:
+      - Vi lernas multe
+    Translation: Estás aprendiendo mucho
+    Alternative translations:
+      - Tú estás aprendiendo mucho
+      - Aprendes mucho
+      - Tú aprendes mucho
+
+  - Phrase: La anaso brakumas la katon
+    Translation: El pato está abrazando al gato
+
+  - Phrase: Ŝi naĝas en la maro
+    Translation: Ella está nadando en el mar
+    Alternative translations:
+      Está nadando en el mar
+
+  - Phrase: Li manĝas ĉokoladon
+    Translation: Él está comiendo chocolate
+    Alternative translations:
+      - Está comiendo chocolate
+
+  - Phrase: Ĉu ili skribas leteron?
+    Translation: ¿Están escribiendo una carta?
+    Alternative translations:
+      - ¿Ellos están escribiendo una carta?
+      - ¿Ellas están escribiendo una carta?
+
+  - Phrase: Ni iras al la parko
+    Translation: Nosotros vamos al parque
+    Alternative translations:
+      - Nosotras vamos al parque
+      - Vamos al parque
+
+  - Phrase: Mi kantas kanton
+    Translation: Yo estoy cantando una canción
+    Alternative translations:
+      - Estoy cantando una canción
+
+Mini-dictionary:
+  esperanto:
+    - vi: tú
+    - kuiras: cocinando
+    - vespermanĝon: cena
+    - faras: haciendo
+    - ĉi tiu:
+      - este
+      - esta
+    - ekzerco:
+      - ejercicio
+      - entrenamiento
+    - ludas: jugando
+    - aŭskultas: estoy escuchando
+    - lernas: estoy aprendiendo
+    - brakumas: estoy abrazando
+    - naĝas: estoy nadando
+    - manĝas: estoy comiendo
+    - ĉokoladon: chocolate
+    - skribas: estoy escribiendo
+    - leteron: carta
+    - iras: estoy yendo
+    - kantas: cantando
+    - kanton: canción
+    - multe: mucho
+    - la: el, la
+    - anaso: pato
+    - katon: gatnnno
+    - ni: nosotros
+    - mi: yo
+    - ĉi: este, esta, estos, estas
+    - tiun: este, esta, estos, estas (acusativo)
+    - ekzercon:
+      - ejercicio
+      - entrenamiento
+    - ili: ellos
+    - ĉu: (introduce pregunta)
+    - maro: mar
+    - ŝi: ella
+    - en: en
+    - li: él
+    - al: al
+    - parko: parque
+
+  español:
+    - parque: parko
+    - una: ()
+    - él: li
+    - ella: ŝi
+    - en: en
+    - mar: maro
+    - están: -as
+    - ellos: ili
+    - estoy: -as
+    - yo: mi
+    - la: la
+    - estamos: -as
+    - nosotros: ni
+    - gato: kato
+    - pato: anaso
+    - el: la
+    - tú: vi
+    - cocinando: kuiras
+    - cena: vespermanĝo
+    - haciendo: faras
+    - este: ĉi tiu
+    - ejercicio: ekzerco
+    - jugando: ludas
+    - escuchando: aŭskultas
+    - está: estas
+    - estás: vi estas
+    - aprendiendo: lernas
+    - abrazando: ĉirkaŭbrakas
+    - al: -n
+    - nadando: naĝas
+    - chocolate: ĉokolado
+    - comiendo: manĝas
+    - escribiendo: skribas
+    - carta: letero
+    - vamos:
+      - ni iras
+    - cantando: kantas
+    - canción: kanto
+    - mucho: multe
